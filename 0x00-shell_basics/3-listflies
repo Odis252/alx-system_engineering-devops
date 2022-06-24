@@ -1,0 +1,5 @@
+ls -l >> 3-listflies
+echo ls -l >> 3-listflies
+cd ..
+echo ls -l
+ls -l
