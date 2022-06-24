@@ -1,5 +1,2 @@
-ls -l >> 3-listflies
-echo ls -l >> 3-listflies
-cd ..
-echo ls -l
+#!/bin/bash
 ls -l
